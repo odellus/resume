@@ -1,0 +1,105 @@
+Thomas Wood
+  thomas@wgapl.com
+  206.678.6841
+
+
+Education
+
+  Univ. of Washington
+    MS in Applied Mathematics
+    Mar 2013 | Seattle, WA
+    Focus in Scientific Computing, Data Analysis, and Robotics
+
+  Lamar Univ.
+    BS in Physics
+    Dec 2007 | Beaumont, TX
+    Focus in Longitudinal Optics and Quantum Field Theory
+
+
+Links
+
+  Github:   https://github.com/odellus
+  LinkedIn: https://www.linkedin.com/in/optimaldynamics
+
+
+Coursework
+
+  Graduate
+    ∙ Scientific Computing
+    ∙ Computational Data Analysis
+    ∙ Neural Control of Motion
+    ∙ Robotic Manipulators
+    ∙ Partial Differential Equations
+    ∙ Nonlinear Dynamics and Chaos
+    ∙ Stochastic Processes
+
+  Undergraduate
+    ∙ Quantum Field Theory
+    ∙ Quantum Mechanics
+    ∙ Optics
+    ∙ Solid State Physics
+    ∙ Electrodynamics
+    ∙ Analytical Mechanics
+    ∙ Differential Equations
+    ∙ Linear Algebra I & II
+    ∙ Organic Chemistry I & II
+    ∙ Calculus I-IV
+    ∙ Intro to Programming
+
+
+Skills
+
+  ∙ Python -- expert
+  ∙ Matlab -- expert
+  ∙ Lua    -- beginner
+  ∙ C/C++  -- proficient
+  ∙ CUDA   -- proficient
+
+
+Experience
+
+Wood Gesellschaft Applied Physics Laboratory}
+Research Scientist
+Jun 2013 – Current | Seattle, WA
+  • System identification in humanoid robotics
+  • Data analysis and modeling in proteomics and transcriptomics
+  • Tutoring services and technical training
+  • Open source and commercial software development and consulting services
+
+
+Sportswear, Inc
+Software Engineer
+Dec 2014 – May 2015 | Seattle, WA
+  • Image processing and digital embroidery software engineering with CUDA and C++
+  • Build and test engineering with Python
+  • Data analysis and strategic insight with Python
+
+University of Washington
+Research Scientist
+May 2013 – Jun 2013 | Seattle, WA
+  ∙ Developed software to repurpose FDA approved compounds through
+    combining atomic level knowledge of compound-protein interactions
+    with compound-disease associations which was able to identify a
+    known use for a compound for over one in four FDA approved drugs
+    which passed an initial screening against the human genome.
+
+
+University of Washington
+Research Fellow
+Jun 2011 – Sep 2012 | Seattle, WA
+  ∙ Created method to simulate single nucleotide polymorphisms whose ROC curve
+    was substantially above the identity function through Gaussian anomaly
+    detection to identify mutations which effected gene function.
+  ∙Full enrollment in graduate courses in Applied Mathematics in addition to
+   full time work writing and rigorously benchmarking software for
+   macromolecular docking and protein design.
+
+Certifications
+
+ ∙ Underactuated Robotics       -- MITx     -- Dec 2015
+ ∙ Initiating/Planning Projects -- Coursera -- Jul 2015
+ ∙ Plasma Physics               -- EPFLx    -- Jun 2015
+ ∙ Parallel Programming         -- Udacity  -- Sep 2014
+ ∙ Data Wrangling with MongoDB  -- Udacity  -- Jul 2014
+ ∙ Algorithms                   -- Udacity  -- Mar 2014
+ ∙ Machine Learning             -- Coursera -- Jan 2014
