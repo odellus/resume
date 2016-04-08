@@ -51,24 +51,30 @@ Skills
 
   ∙ Python -- expert
   ∙ Matlab -- expert
-  ∙ Lua    -- beginner
+  ∙ R      -- proficient
   ∙ C/C++  -- proficient
   ∙ CUDA   -- proficient
+  ∙ Lua    -- beginner
 
 
 Experience
 
 Microsoft
 Senior Data Analyst
-  • Text Categorization for Azure Insight using AzureML 
+  ∙ Text Categorization and Sentiment Analysis of StackOverflow with AzureML,
+    SciKit-Learn, and Theano
+  ∙ Data Munging with SQL and Python
+  ∙ Data Science training and consultation
 
 Wood Gesellschaft Applied Physics Laboratory
 Principal Research Scientist
 Jun 2013 – Current | Seattle, WA
-  • System identification in humanoid robotics
-  • Data analysis and modeling in proteomics and transcriptomics
-  • Tutoring services and technical training
-  • Open source and commercial software development and consulting services
+  ∙ Question Answering Systems, Deep Reinforcement Learning, and
+    Image Caption Generation research with Blocks, Torch, and Caffe
+  ∙ System identification and state estimation in humanoid robotics with MuJoCo
+  ∙ Data analysis and dynamical modeling in proteomics and transcriptomics
+  ∙ Open source and commercial software development and consulting services
+  ∙ Tutoring services and technical training
 
 Sportswear, Inc
 Software Engineer
@@ -80,19 +86,17 @@ Dec 2014 – May 2015 | Seattle, WA
 University of Washington
 Research Scientist
 May 2013 – Jun 2013 | Seattle, WA
-  ∙ Developed software to repurpose FDA approved compounds through
-    incorporating atomic level knowledge of compound-protein interactions
-    with compound-disease associations which was able to identify a
-    known use for a compound for over one in four FDA approved drugs
-    which passed an initial screening against the human genome.
+  ∙ Developed machine learning software to repurpose FDA approved compounds
+    using atomic level knowledge of compound-protein interactions with
+    compound-disease associations  which was able to identify a known indication
+    for over one in four FDA approved drugs in a leave-one-out study
 
 
 University of Washington
 Research Fellow
 Jun 2011 – Sep 2012 | Seattle, WA
-  ∙ Created method to simulate single nucleotide polymorphisms whose ROC curve
-    was substantially above the identity function through Gaussian anomaly
-    detection to identify mutations which effected gene function.
+  ∙ Created method to simulate single nucleotide polymorphisms and estimate
+    changes in the gene's function through scoring with a bayesian potential
 
 Certifications
 
