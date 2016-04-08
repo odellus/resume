@@ -59,22 +59,22 @@ Skills
 
 Experience
 
-Microsoft
-Senior Data Analyst
-  ∙ Text Categorization and Sentiment Analysis of StackOverflow with AzureML,
-    SciKit-Learn, and Theano
-  ∙ Data Munging with SQL and Python
-  ∙ Data Science training and consultation
-
 Wood Gesellschaft Applied Physics Laboratory
 Principal Research Scientist
 Jun 2013 – Current | Seattle, WA
-  ∙ Question Answering Systems, Deep Reinforcement Learning, and
-    Image Caption Generation research with Blocks, Torch, and Caffe
-  ∙ System identification and state estimation in humanoid robotics with MuJoCo
-  ∙ Data analysis and dynamical modeling in proteomics and transcriptomics
-  ∙ Open source and commercial software development and consulting services
-  ∙ Tutoring services and technical training
+∙ Question Answering Systems, Deep Reinforcement Learning, and
+Image Caption Generation research with Blocks, Torch, and Caffe
+∙ System identification and state estimation in humanoid robotics with MuJoCo
+∙ Data analysis and dynamical modeling in proteomics and transcriptomics
+∙ Open source and commercial software development and consulting services
+∙ Tutoring services and technical training
+
+Microsoft
+Senior Data Analyst
+∙ Text Categorization and Sentiment Analysis of StackOverflow with AzureML,
+SciKit-Learn, and Theano
+∙ Data Munging with SQL and Python
+∙ Data Science training and consultation
 
 Sportswear, Inc
 Software Engineer
