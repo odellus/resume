@@ -1,0 +1,821 @@
+<?xml version="1.0"?>
+<root ptr="0x562e937e0020" id="4" symbol="11SwRootFrame" lower="5">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x562e94075980" id="9"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="30" nContent="265"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18836" height="64212" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18836" height="64212"/>
+ </infos>
+ <page ptr="0x562e93d19d40" id="5" symbol="11SwPageFrame" next="33" upper="4" lower="6">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="6880" top="284" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x562e909c7400" id="6" symbol="11SwBodyFrame" upper="5" lower="7">
+   <infos>
+    <bounds left="8014" top="1418" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x562e9414cdd0" id="7" symbol="11SwTextFrame" next="8" upper="6" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="1418" width="9972" height="792" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9972" height="552"/>
+    </infos>
+THOMAS WOOD    <Text nLength="11" nType="PortionType::Text" nHeight="552" nWidth="3818" Portion="THOMAS WOOD"/>
+    <LineBreak nWidth="3818" Line="THOMAS WOOD"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e90a06700" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="6" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="2210" width="9972" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9972" height="276"/>
+    </infos>
+11223 HOCHSPEIER RD· JEFFERSON, OR 97352 · (971) 770-7914 · THOMAS@SYNPON.COM    <Text nLength="60" nType="PortionType::Text" nHeight="276" nWidth="6972" Portion="11223 HOCHSPEIER RD&#xB7; JEFFERSON, OR 97352 &#xB7; (971) 770-7914 &#xB7; "/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="276" nWidth="2802" Portion="THOMAS@SYNPON.COM"/>
+    <LineBreak nWidth="9774" Line="11223 HOCHSPEIER RD&#xB7; JEFFERSON, OR 97352 &#xB7; (971) 770-7914 &#xB7; THOMAS@SYNPON.COM"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e90998020" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="6" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="2606" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e909b9980" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="6" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="3063" width="9972" height="828" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="828"/>
+    </infos>
+Applied mathematician / Data scientist who is passionate about energy policy, biogerontology, and automation. My previous experience includes graph machine learning, computer vision, and open-ended question answering systems. Currently working on deep reinforcement learning for robotics.    <Text nLength="98" nType="PortionType::Para" nHeight="276" nWidth="9528" Portion="Applied mathematician / Data scientist who is passionate about energy policy, biogerontology, and "/>
+    <LineBreak nWidth="9528" Line="Applied mathematician / Data scientist who is passionate about energy policy, biogerontology, and "/>
+    <Text nLength="94" nType="PortionType::Lay" nHeight="276" nWidth="9450" Portion="automation. My previous experience includes graph machine learning, computer vision, and open-"/>
+    <LineBreak nWidth="9450" Line="automation. My previous experience includes graph machine learning, computer vision, and open-"/>
+    <Text nLength="96" nType="PortionType::Lay" nHeight="276" nWidth="9511" Portion="ended question answering systems. Currently working on deep reinforcement learning for robotics."/>
+    <LineBreak nWidth="9511" Line="ended question answering systems. Currently working on deep reinforcement learning for robotics."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94166fb0" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="6" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="3891" width="9972" height="314" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="314"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94167210" id="12" symbol="11SwTextFrame" next="13" prev="11" upper="6" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="4205" width="9972" height="153" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="138"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94154a10" id="13" symbol="11SwTextFrame" next="14" prev="12" upper="6" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="4358" width="9972" height="702" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="283" width="9972" height="419"/>
+    </infos>
+EXPERIENCE    <Text nLength="10" nType="PortionType::Text" nHeight="419" nWidth="2502" Portion="EXPERIENCE"/>
+    <LineBreak nWidth="2502" Line="EXPERIENCE"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e90a0ba60" id="14" symbol="11SwTextFrame" next="15" prev="13" upper="6" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="5060" width="9972" height="545" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="223" width="9972" height="322"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="322"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e93ccd8c0" id="15" symbol="11SwTextFrame" next="16" prev="14" upper="6" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="5605" width="9972" height="390" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="64" width="9972" height="326"/>
+    </infos>
+AI SCIENTIST    <Text nLength="12" nType="PortionType::Text" nHeight="326" nWidth="2043" Portion="AI SCIENTIST"/>
+    <LineBreak nWidth="2043" Line="AI SCIENTIST"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e932c4390" id="16" symbol="11SwTextFrame" next="17" prev="15" upper="6" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="5995" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+SYNPON LABS    <Text nLength="11" nType="PortionType::Para" nHeight="280" nWidth="1906" Portion="SYNPON LABS"/>
+    <LineBreak nWidth="1906" Line="SYNPON LABS"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9331f5d0" id="17" symbol="11SwTextFrame" next="18" prev="16" upper="6" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="6340" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+Jun 2013 - Present    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="7244"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="280" nWidth="2729" Portion="Jun 2013 - Present"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9973" Line="Jun 2013 - Present"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e93943680" id="18" symbol="11SwTextFrame" next="19" prev="17" upper="6" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="6802" width="9972" height="1782" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="1600"/>
+    </infos>
+- Open ended question answering systems with Theano and PyTorch*- State estimation, planning, and dynamic control of humanoid robotics with MuJoCo and Drake*- Deep reinforcement learning agents that play games with TensorFlow and PyTorch*- Applied multi-modal computer vision research using PyTorch, Caffe, MS COCO, and Visual Genome*- Open source and commercial software development and consulting services.    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="140" Portion="- "/>
+    <Text nLength="61" nType="PortionType::Text" nHeight="276" nWidth="6431" Portion="Open ended question answering systems with Theano and PyTorch"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="6571" Line="- Open ended question answering systems with Theano and PyTorch*"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="140" Portion="- "/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="134" Portion="S"/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="276" nWidth="1526" Portion="tate estimation, "/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="276" nWidth="3193" Portion="planning, and dynamic control of"/>
+    <Text nLength="31" nType="PortionType::Text" nHeight="276" nWidth="3286" Portion=" humanoid robotics with MuJoCo "/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="276" nWidth="993" Portion="and Drake"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="9272" Line="- State estimation, planning, and dynamic control of humanoid robotics with MuJoCo and Drake*"/>
+    <Text nLength="47" nType="PortionType::Text" nHeight="276" nWidth="4525" Portion="- Deep reinforcement learning agents that play "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="673" Portion="games "/>
+    <Text nLength="5" nType="PortionType::Text" nHeight="276" nWidth="487" Portion="with "/>
+    <Text nLength="10" nType="PortionType::Text" nHeight="276" nWidth="1143" Portion="TensorFlow"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="60" Portion=" "/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="276" nWidth="1216" Portion="and PyTorch"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="8104" Line="- Deep reinforcement learning agents that play games with TensorFlow and PyTorch*"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="140" Portion="- "/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="276" nWidth="2020" Portion="Applied multi-modal"/>
+    <Text nLength="16" nType="PortionType::Text" nHeight="276" nWidth="1613" Portion=" computer vision"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="60" Portion=" "/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="276" nWidth="859" Portion="research "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="580" Portion="using "/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="276" nWidth="930" Portion="PyTorch, "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="649" Portion="Caffe, "/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="276" nWidth="407" Portion="MS "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="787" Portion="COCO, "/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="276" nWidth="1887" Portion="and Visual Genome"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="9932" Line="- Applied multi-modal computer vision research using PyTorch, Caffe, MS COCO, and Visual Genome*"/>
+    <Text nLength="74" nType="PortionType::Lay" nHeight="276" nWidth="7490" Portion="- Open source and commercial software development and consulting services."/>
+    <LineBreak nWidth="7490" Line="- Open source and commercial software development and consulting services."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e941ac8d0" id="19" symbol="11SwTextFrame" next="20" prev="18" upper="6" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="8584" width="9972" height="521" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="195" width="9972" height="326"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="326"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9296e2b0" id="20" symbol="11SwTextFrame" next="21" prev="19" upper="6" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="9105" width="9972" height="391" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="326"/>
+    </infos>
+Machine learning engineer    <Text nLength="25" nType="PortionType::Text" nHeight="326" nWidth="4857" Portion="Machine learning engineer"/>
+    <LineBreak nWidth="4857" Line="Machine learning engineer"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94168d70" id="21" symbol="11SwTextFrame" next="22" prev="20" upper="6" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="9496" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+Portland general electric    <Text nLength="25" nType="PortionType::Para" nHeight="280" nWidth="4144" Portion="Portland general electric"/>
+    <LineBreak nWidth="4144" Line="Portland general electric"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e92a2e6d0" id="22" symbol="11SwTextFrame" next="23" prev="21" upper="6" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="9841" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+JUN 2020 – DeC 2020    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="7159"/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="280" nWidth="2814" Portion="JUN 2020 &#x2013; DeC 2020"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9973" Line="JUN 2020 &#x2013; DeC 2020"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9071bed0" id="23" symbol="11SwTextFrame" next="24" prev="22" upper="6" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="10303" width="9972" height="1656" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9972" height="1600"/>
+    </infos>
+- Guide data science products from local development to AWS production environment*- Architect machine learning workflows in the cloud*- Evangelize modern best software engineering practices around MLOps in the cloud*- Research and development of new data science products*- Product management    <Text nLength="2" nType="PortionType::Text" nHeight="245" nWidth="143" Portion="- "/>
+    <Text nLength="33" nType="PortionType::Text" nHeight="276" nWidth="3285" Portion="Guide data science products from "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="526" Portion="local "/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="276" nWidth="1546" Portion="development to "/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="276" nWidth="574" Portion="AWS "/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="276" nWidth="1100" Portion="production "/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="276" nWidth="1213" Portion="environment"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="8387" Line="- Guide data science products from local development to AWS production environment*"/>
+    <Text nLength="39" nType="PortionType::Text" nHeight="276" nWidth="3886" Portion="- Architect machine learning workflows "/>
+    <Text nLength="12" nType="PortionType::Text" nHeight="276" nWidth="1133" Portion="in the cloud"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="5019" Line="- Architect machine learning workflows in the cloud*"/>
+    <Text nLength="56" nType="PortionType::Text" nHeight="276" nWidth="5498" Portion="- Evangelize modern best software engineering practices "/>
+    <Text nLength="25" nType="PortionType::Text" nHeight="276" nWidth="2666" Portion="around MLOps in the cloud"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="8164" Line="- Evangelize modern best software engineering practices around MLOps in the cloud*"/>
+    <Text nLength="55" nType="PortionType::Text" nHeight="276" nWidth="5557" Portion="- Research and development of new data science products"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="5557" Line="- Research and development of new data science products*"/>
+    <Text nLength="20" nType="PortionType::Lay" nHeight="276" nWidth="2173" Portion="- Product management"/>
+    <LineBreak nWidth="2173" Line="- Product management"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e93be70d0" id="24" symbol="11SwTextFrame" next="25" prev="23" upper="6" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="11959" width="9972" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="55" width="9972" height="326"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="326"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9319c690" id="25" symbol="11SwTextFrame" next="26" prev="24" upper="6" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="12340" width="9972" height="391" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="326"/>
+    </infos>
+DATA SCIENTIST    <Text nLength="14" nType="PortionType::Text" nHeight="326" nWidth="2536" Portion="DATA SCIENTIST"/>
+    <LineBreak nWidth="2536" Line="DATA SCIENTIST"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e929c72d0" id="26" symbol="11SwTextFrame" next="27" prev="25" upper="6" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="12731" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+NIKE    <Text nLength="4" nType="PortionType::Para" nHeight="280" nWidth="640" Portion="NIKE"/>
+    <LineBreak nWidth="640" Line="NIKE"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e909917f0" id="27" symbol="11SwTextFrame" next="28" prev="26" upper="6" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="13076" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+May 2019 – JUN 2020    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="7122"/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="280" nWidth="2851" Portion="May 2019 &#x2013; JUN 2020"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9973" Line="May 2019 &#x2013; JUN 2020"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e90986f50" id="28" symbol="11SwTextFrame" prev="27" upper="6" txtNodeIndex="30" WritingMode="Horizontal" follow="91">
+    <infos>
+     <bounds left="8014" top="13538" width="9972" height="1409" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="1227"/>
+    </infos>
+- Cloud native ETL development with Airflow, Spark, and AWS Redshift*- Data visualization with AWS Quicksight*- Python training lead*- NodeJS micro-services with AWS Lambdas for real time data analytics*- Data and machine learning cloud solution architecting*- DevOps best practices with CloudFormation, Jenkins, BitBucket, and Git    <Text nLength="68" nType="PortionType::Text" nHeight="276" nWidth="7022" Portion="- Cloud native ETL development with Airflow, Spark, and AWS Redshift"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="7022" Line="- Cloud native ETL development with Airflow, Spark, and AWS Redshift*"/>
+    <Text nLength="40" nType="PortionType::Text" nHeight="276" nWidth="4040" Portion="- Data visualization with AWS Quicksight"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="4040" Line="- Data visualization with AWS Quicksight*"/>
+    <Text nLength="22" nType="PortionType::Text" nHeight="276" nWidth="2086" Portion="- Python training lead"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="2086" Line="- Python training lead*"/>
+    <Text nLength="69" nType="PortionType::Text" nHeight="276" nWidth="6965" Portion="- NodeJS micro-services with AWS Lambdas for real time data analytics"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="6965" Line="- NodeJS micro-services with AWS Lambdas for real time data analytics*"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x562e932818b0" id="33" symbol="11SwPageFrame" next="61" prev="5" upper="4" lower="34">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="6880" top="16408" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x562e909d1e10" id="34" symbol="11SwBodyFrame" upper="33" lower="91">
+   <infos>
+    <bounds left="8014" top="17542" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x562e93900c80" id="91" symbol="11SwTextFrame" next="29" upper="34" txtNodeIndex="30" WritingMode="Horizontal" precede="28">
+    <infos>
+     <bounds left="8014" top="17542" width="9972" height="593" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="593"/>
+    </infos>
+- Cloud native ETL development with Airflow, Spark, and AWS Redshift*- Data visualization with AWS Quicksight*- Python training lead*- NodeJS micro-services with AWS Lambdas for real time data analytics*- Data and machine learning cloud solution architecting*- DevOps best practices with CloudFormation, Jenkins, BitBucket, and Git    <Skip nLength="203"/>
+    <Text nLength="55" nType="PortionType::Text" nHeight="276" nWidth="5338" Portion="- Data and machine learning cloud solution architecting"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="5338" Line="- Data and machine learning cloud solution architecting*"/>
+    <Text nLength="72" nType="PortionType::Lay" nHeight="276" nWidth="7185" Portion="- DevOps best practices with CloudFormation, Jenkins, BitBucket, and Git"/>
+    <LineBreak nWidth="7185" Line="- DevOps best practices with CloudFormation, Jenkins, BitBucket, and Git"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e90985f60" id="29" symbol="11SwTextFrame" next="30" prev="91" upper="34" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="18135" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="9973"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="276"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9973"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94189780" id="30" symbol="11SwTextFrame" next="31" prev="29" upper="34" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="18592" width="9972" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="326"/>
+    </infos>
+AI SCIENTIST    <Text nLength="12" nType="PortionType::Text" nHeight="326" nWidth="2043" Portion="AI SCIENTIST"/>
+    <LineBreak nWidth="2043" Line="AI SCIENTIST"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9309d690" id="31" symbol="11SwTextFrame" next="32" prev="30" upper="34" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="19099" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+HUAWEI    <Text nLength="6" nType="PortionType::Para" nHeight="280" nWidth="1081" Portion="HUAWEI"/>
+    <LineBreak nWidth="1081" Line="HUAWEI"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94156550" id="32" symbol="11SwTextFrame" next="35" prev="31" upper="34" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="19444" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+Jul 2018 - Jan 2019    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="7290"/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="280" nWidth="2683" Portion="Jul 2018 - Jan 2019"/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9973" Line="Jul 2018 - Jan 2019"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e93fefce0" id="35" symbol="11SwTextFrame" next="36" prev="32" upper="34" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="19906" width="9972" height="1409" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="1227"/>
+    </infos>
+- Visual relation detection, Scene graphs, and Semantic segmentation of images*- Design of algorithms for graph deep learning at scale and applications to traffic modeling*- Software engineering with Go, Linux, Docker, Flask, Python, and C/C++*- Graph database engineering with gremlin, neo4j, and huawei graph engine service    <Text nLength="78" nType="PortionType::Text" nHeight="276" nWidth="7632" Portion="- Visual relation detection, Scene graphs, and Semantic segmentation of images"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="7632" Line="- Visual relation detection, Scene graphs, and Semantic segmentation of images*"/>
+    <Text nLength="92" nType="PortionType::Text" nHeight="276" nWidth="8726" Portion="- Design of algorithms for graph deep learning at scale and applications to traffic modeling"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="8726" Line="- Design of algorithms for graph deep learning at scale and applications to traffic modeling*"/>
+    <Text nLength="71" nType="PortionType::Text" nHeight="276" nWidth="7173" Portion="- Software engineering with Go, Linux, Docker, Flask, Python, and C/C++"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="7173" Line="- Software engineering with Go, Linux, Docker, Flask, Python, and C/C++*"/>
+    <Text nLength="81" nType="PortionType::Lay" nHeight="276" nWidth="8030" Portion="- Graph database engineering with gremlin, neo4j, and huawei graph engine service"/>
+    <LineBreak nWidth="8030" Line="- Graph database engineering with gremlin, neo4j, and huawei graph engine service"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e93945f30" id="36" symbol="11SwTextFrame" next="37" prev="35" upper="34" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="21315" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e937bd1f0" id="37" symbol="11SwTextFrame" next="38" prev="36" upper="34" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="21772" width="9972" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="326"/>
+    </infos>
+MACHINE LEARNING SCIENTIST    <Text nLength="26" nType="PortionType::Text" nHeight="326" nWidth="4890" Portion="MACHINE LEARNING SCIENTIST"/>
+    <LineBreak nWidth="4890" Line="MACHINE LEARNING SCIENTIST"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e91c1b8e0" id="38" symbol="11SwTextFrame" next="39" prev="37" upper="34" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="22279" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+ASTOUND    <Text nLength="7" nType="PortionType::Para" nHeight="280" nWidth="1321" Portion="ASTOUND"/>
+    <LineBreak nWidth="1321" Line="ASTOUND"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9437e610" id="39" symbol="11SwTextFrame" next="40" prev="38" upper="34" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="22624" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+Dec 2017 - Mar 2018    <Text nLength="19" nType="PortionType::Para" nHeight="280" nWidth="2918" Portion="Dec 2017 - Mar 2018"/>
+    <LineBreak nWidth="2918" Line="Dec 2017 - Mar 2018"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e924b92f0" id="40" symbol="11SwTextFrame" next="41" prev="39" upper="34" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="23086" width="9972" height="775" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="593"/>
+    </infos>
+- Development and Implementation of AutoML systems*- Applied Natural Language Understanding    <Text nLength="50" nType="PortionType::Text" nHeight="276" nWidth="5377" Portion="- Development and Implementation of AutoML systems"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="5377" Line="- Development and Implementation of AutoML systems*"/>
+    <Text nLength="40" nType="PortionType::Lay" nHeight="276" nWidth="4159" Portion="- Applied Natural Language Understanding"/>
+    <LineBreak nWidth="4159" Line="- Applied Natural Language Understanding"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e93bc3730" id="41" symbol="11SwTextFrame" next="42" prev="40" upper="34" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="23861" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e932d8a50" id="42" symbol="11SwTextFrame" next="43" prev="41" upper="34" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="24318" width="9972" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="326"/>
+    </infos>
+DATA ANALYST    <Text nLength="12" nType="PortionType::Text" nHeight="326" nWidth="2309" Portion="DATA ANALYST"/>
+    <LineBreak nWidth="2309" Line="DATA ANALYST"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e942e6030" id="43" symbol="11SwTextFrame" next="44" prev="42" upper="34" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="24825" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+INTEL    <Text nLength="5" nType="PortionType::Para" nHeight="280" nWidth="771" Portion="INTEL"/>
+    <LineBreak nWidth="771" Line="INTEL"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e92a1c6a0" id="44" symbol="11SwTextFrame" next="45" prev="43" upper="34" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="25170" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+May 2017 - Aug 2017    <Text nLength="19" nType="PortionType::Para" nHeight="280" nWidth="2915" Portion="May 2017 - Aug 2017"/>
+    <LineBreak nWidth="2915" Line="May 2017 - Aug 2017"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e90987520" id="45" symbol="11SwTextFrame" next="46" prev="44" upper="34" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="25632" width="9972" height="1092" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="910"/>
+    </infos>
+- Creation of automated ETL tools using Pandas and MongoDB*- Strategic insight through analysis of time series data*- Developed novel web scrapers for data acquisition.    <Text nLength="58" nType="PortionType::Text" nHeight="276" nWidth="6117" Portion="- Creation of automated ETL tools using Pandas and MongoDB"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="6117" Line="- Creation of automated ETL tools using Pandas and MongoDB*"/>
+    <Text nLength="56" nType="PortionType::Text" nHeight="276" nWidth="5159" Portion="- Strategic insight through analysis of time series data"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="5159" Line="- Strategic insight through analysis of time series data*"/>
+    <Text nLength="52" nType="PortionType::Lay" nHeight="276" nWidth="5051" Portion="- Developed novel web scrapers for data acquisition."/>
+    <LineBreak nWidth="5051" Line="- Developed novel web scrapers for data acquisition."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94186de0" id="46" symbol="11SwTextFrame" next="47" prev="45" upper="34" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="26724" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e929fd000" id="47" symbol="11SwTextFrame" next="48" prev="46" upper="34" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="27181" width="9972" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="326"/>
+    </infos>
+SENIOR DATA ANALYST    <Text nLength="19" nType="PortionType::Text" nHeight="326" nWidth="3592" Portion="SENIOR DATA ANALYST"/>
+    <LineBreak nWidth="3592" Line="SENIOR DATA ANALYST"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94293f90" id="48" symbol="11SwTextFrame" next="49" prev="47" upper="34" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="27688" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+MICROSOFT    <Text nLength="9" nType="PortionType::Para" nHeight="280" nWidth="1598" Portion="MICROSOFT"/>
+    <LineBreak nWidth="1598" Line="MICROSOFT"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9197a8f0" id="49" symbol="11SwTextFrame" next="50" prev="48" upper="34" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="28033" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+Jan 2016 - Feb 2016    <Text nLength="19" nType="PortionType::Para" nHeight="280" nWidth="2757" Portion="Jan 2016 - Feb 2016"/>
+    <LineBreak nWidth="2757" Line="Jan 2016 - Feb 2016"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e93dba800" id="50" symbol="11SwTextFrame" next="51" prev="49" upper="34" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="28495" width="9972" height="1092" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="910"/>
+    </infos>
+- Text Categorization and Sentiment Analysis with AzureML*- Data Munging with SQL and Python*- Data Science training and consultation    <Text nLength="57" nType="PortionType::Text" nHeight="276" nWidth="5838" Portion="- Text Categorization and Sentiment Analysis with AzureML"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="5838" Line="- Text Categorization and Sentiment Analysis with AzureML*"/>
+    <Text nLength="34" nType="PortionType::Text" nHeight="276" nWidth="3671" Portion="- Data Munging with SQL and Python"/>
+    <Text nLength="1" nType="PortionType::Break" Portion="*"/>
+    <LineBreak nWidth="3671" Line="- Data Munging with SQL and Python*"/>
+    <Text nLength="40" nType="PortionType::Lay" nHeight="276" nWidth="3845" Portion="- Data Science training and consultation"/>
+    <LineBreak nWidth="3845" Line="- Data Science training and consultation"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e93d55c80" id="51" symbol="11SwTextFrame" next="52" prev="50" upper="34" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="29587" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="276"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9265a090" id="52" symbol="11SwTextFrame" next="53" prev="51" upper="34" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="30044" width="9972" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="326"/>
+    </infos>
+SOFTWARE ENGINEER    <Text nLength="17" nType="PortionType::Text" nHeight="326" nWidth="3432" Portion="SOFTWARE ENGINEER"/>
+    <LineBreak nWidth="3432" Line="SOFTWARE ENGINEER"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e931268d0" id="53" symbol="11SwTextFrame" prev="52" upper="34" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="30551" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+SPORTSWEAR, INC.    <Text nLength="16" nType="PortionType::Para" nHeight="280" nWidth="2599" Portion="SPORTSWEAR, INC."/>
+    <LineBreak nWidth="2599" Line="SPORTSWEAR, INC."/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x562e942f2130" id="61" symbol="11SwPageFrame" next="89" prev="33" upper="4" lower="62">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="6880" top="32532" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x562e9099cbf0" id="62" symbol="11SwBodyFrame" upper="61" lower="54">
+   <infos>
+    <bounds left="8014" top="33666" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x562e93d277c0" id="54" symbol="11SwTextFrame" next="55" upper="62" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="33666" width="9972" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="280"/>
+    </infos>
+Dec 2014 - May 2015    <Text nLength="19" nType="PortionType::Para" nHeight="280" nWidth="2885" Portion="Dec 2014 - May 2015"/>
+    <LineBreak nWidth="2885" Line="Dec 2014 - May 2015"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e92f24d90" id="55" symbol="11SwTextFrame" next="56" prev="54" upper="62" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="33946" width="9972" height="1092" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="910"/>
+    </infos>
+- Image processing and digital embroidery software engineering with CUDA and C++*- Build and test engineering with Python*- Data analysis and strategic insight with Python    <Finish/>
+   </txt>
+   <txt ptr="0x562e92ebfbc0" id="56" symbol="11SwTextFrame" next="57" prev="55" upper="62" txtNodeIndex="56" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="35038" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e941aba00" id="57" symbol="11SwTextFrame" next="58" prev="56" upper="62" txtNodeIndex="57" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="35495" width="9972" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="326"/>
+    </infos>
+RESEARCH SCIENTIST    <Finish/>
+   </txt>
+   <txt ptr="0x562e9416f0b0" id="58" symbol="11SwTextFrame" next="59" prev="57" upper="62" txtNodeIndex="58" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="36002" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+UNIVERSITY OF WASHINGTON SCHOOL OF MEDICINE    <Finish/>
+   </txt>
+   <txt ptr="0x562e9353be10" id="59" symbol="11SwTextFrame" next="60" prev="58" upper="62" txtNodeIndex="59" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="36347" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+Apr 2013 - May 2013    <Finish/>
+   </txt>
+   <txt ptr="0x562e922f9e00" id="60" symbol="11SwTextFrame" next="63" prev="59" upper="62" txtNodeIndex="60" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="36809" width="9972" height="1409" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="1227"/>
+    </infos>
+- Developed software to repurpose FDA approved compounds through combining atomic level knowledge of compound-protein interactions with compound-disease associations which was able to identify a known use for over one in four FDA approved drugs which passed an initial screening against the human genome.    <Finish/>
+   </txt>
+   <txt ptr="0x562e93dbbc50" id="63" symbol="11SwTextFrame" next="64" prev="60" upper="62" txtNodeIndex="61" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="38218" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e92c0ec70" id="64" symbol="11SwTextFrame" next="65" prev="63" upper="62" txtNodeIndex="62" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="38675" width="9972" height="507" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="326"/>
+    </infos>
+RESEARCH FELLOW    <Finish/>
+   </txt>
+   <txt ptr="0x562e938d8e00" id="65" symbol="11SwTextFrame" next="66" prev="64" upper="62" txtNodeIndex="63" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="39182" width="9972" height="345" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="65" width="9972" height="280"/>
+    </infos>
+UNIVERSITY OF WASHINGTON SCHOOL OF MEDICINE    <Finish/>
+   </txt>
+   <txt ptr="0x562e937b7650" id="66" symbol="11SwTextFrame" next="67" prev="65" upper="62" txtNodeIndex="64" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="39527" width="9972" height="462" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="280"/>
+    </infos>
+Jul 2011 - Aug 2012    <Finish/>
+   </txt>
+   <txt ptr="0x562e93ab9f10" id="67" symbol="11SwTextFrame" next="68" prev="66" upper="62" txtNodeIndex="65" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="39989" width="9972" height="635" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="42" width="9972" height="593"/>
+    </infos>
+- Created method to simulate single nucleotide polymorphisms and used Gaussian anomaly detection to identify mutations which effected gene function.    <Finish/>
+   </txt>
+   <txt ptr="0x562e927aa610" id="68" symbol="11SwTextFrame" next="69" prev="67" upper="62" txtNodeIndex="66" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="40624" width="9972" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94199d00" id="69" symbol="11SwTextFrame" next="70" prev="68" upper="62" txtNodeIndex="67" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="41081" width="9972" height="194" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="41" width="9972" height="138"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9418d3e0" id="70" symbol="11SwTextFrame" next="71" prev="69" upper="62" txtNodeIndex="68" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="41275" width="9972" height="702" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="283" width="9972" height="419"/>
+    </infos>
+EDUCATION    <Finish/>
+   </txt>
+   <txt ptr="0x562e941574e0" id="71" symbol="11SwTextFrame" next="72" prev="70" upper="62" txtNodeIndex="69" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="41977" width="9972" height="503" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="223" width="9972" height="280"/>
+    </infos>
+UNIVERSITY OF WASHINGTON    <Finish/>
+   </txt>
+   <txt ptr="0x562e941602e0" id="72" symbol="11SwTextFrame" next="73" prev="71" upper="62" txtNodeIndex="70" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="42480" width="9972" height="400" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9972" height="280"/>
+    </infos>
+MASTER OF SCIENCE - APPLIED MATHEMATICS    <Finish/>
+   </txt>
+   <txt ptr="0x562e935e2430" id="73" symbol="11SwTextFrame" next="74" prev="72" upper="62" txtNodeIndex="71" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="42880" width="9972" height="458" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="276"/>
+    </infos>
+Focus on Data Science, Scientific Computing, and Robotics    <Finish/>
+   </txt>
+   <txt ptr="0x562e9327c920" id="74" symbol="11SwTextFrame" next="75" prev="73" upper="62" txtNodeIndex="72" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="43338" width="9972" height="461" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="280"/>
+    </infos>
+LAMAR UNIVERSITY    <Finish/>
+   </txt>
+   <txt ptr="0x562e92a8f720" id="75" symbol="11SwTextFrame" next="76" prev="74" upper="62" txtNodeIndex="73" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="43799" width="9972" height="336" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9972" height="280"/>
+    </infos>
+BACHELOR OF SCIENCE - PHYSICS    <Finish/>
+   </txt>
+   <txt ptr="0x562e93409da0" id="76" symbol="11SwTextFrame" next="77" prev="75" upper="62" txtNodeIndex="74" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="44135" width="9972" height="458" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9972" height="276"/>
+    </infos>
+Focus on Quantum Field Theory and Longitudinal Optics    <Finish/>
+   </txt>
+   <txt ptr="0x562e93a5e950" id="77" symbol="11SwTextFrame" next="78" prev="76" upper="62" txtNodeIndex="75" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="44593" width="9972" height="495" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9972" height="314"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e9098ec10" id="78" symbol="11SwTextFrame" next="79" prev="77" upper="62" txtNodeIndex="76" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="45088" width="9972" height="153" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="138"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x562e94186860" id="79" symbol="11SwTextFrame" next="80" prev="78" upper="62" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="45241" width="9972" height="702" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="283" width="9972" height="419"/>
+    </infos>
+CERTIFICATIONS    <Finish/>
+   </txt>
+   <txt ptr="0x562e90a07320" id="80" symbol="11SwTextFrame" next="81" prev="79" upper="62" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="45943" width="9972" height="474" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="223" width="9548" height="251"/>
+    </infos>
+Deep Reinforcement Learning Nanodegree - Udacity    <Finish/>
+   </txt>
+   <txt ptr="0x562e93803e30" id="81" symbol="11SwTextFrame" next="82" prev="80" upper="62" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="46417" width="9972" height="288" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="37" width="9548" height="251"/>
+    </infos>
+Underactuated Robotics                 - MIT EdX    <Finish/>
+   </txt>
+   <txt ptr="0x562e92164ad0" id="82" symbol="11SwTextFrame" prev="81" upper="62" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="46705" width="9972" height="288" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="37" width="9548" height="251"/>
+    </infos>
+Initiating and Planning Projects       - UCI Coursera    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x562e943c8270" id="89" symbol="11SwPageFrame" prev="61" upper="4" lower="90">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="6880" top="48656" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x562e909a18a0" id="90" symbol="11SwBodyFrame" upper="89" lower="83">
+   <infos>
+    <bounds left="8014" top="49790" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x562e93a5a570" id="83" symbol="11SwTextFrame" next="84" upper="90" txtNodeIndex="81" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="49790" width="9972" height="251" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="0" width="9548" height="251"/>
+    </infos>
+Plasma Physics and Applications        - EPFL EdX    <Finish/>
+   </txt>
+   <txt ptr="0x562e92a324c0" id="84" symbol="11SwTextFrame" next="85" prev="83" upper="90" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="50041" width="9972" height="288" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="37" width="9548" height="251"/>
+    </infos>
+Intro to Parallel Programming          - Udacity    <Finish/>
+   </txt>
+   <txt ptr="0x562e9377c0b0" id="85" symbol="11SwTextFrame" next="86" prev="84" upper="90" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="50329" width="9972" height="288" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="37" width="9548" height="251"/>
+    </infos>
+Algorithms                             - Udacity    <Finish/>
+   </txt>
+   <txt ptr="0x562e92b179a0" id="86" symbol="11SwTextFrame" next="87" prev="85" upper="90" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="50617" width="9972" height="288" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="37" width="9548" height="251"/>
+    </infos>
+Data Wrangling with MongoDB            - Udacity    <Finish/>
+   </txt>
+   <txt ptr="0x562e936aaa40" id="87" symbol="11SwTextFrame" next="88" prev="86" upper="90" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="50905" width="9972" height="288" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="424" top="37" width="9548" height="251"/>
+    </infos>
+Machine Learning                       - Stanford Coursera    <Finish/>
+   </txt>
+   <txt ptr="0x562e937d4190" id="88" symbol="11SwTextFrame" prev="87" upper="90" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8014" top="51193" width="9972" height="313" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9972" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
